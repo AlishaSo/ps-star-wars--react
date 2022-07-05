@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ps-star-wars--react/static/css/main.f7a95976.css",
+    "main.js": "/ps-star-wars--react/static/js/main.d8d14ae3.js",
+    "static/media/starjedi-webfont.woff": "/ps-star-wars--react/static/media/starjedi-webfont.949b3e8e780f04723736.woff",
+    "static/media/starjedi-webfont.woff2": "/ps-star-wars--react/static/media/starjedi-webfont.cb6d8569ac4db4e02eb9.woff2",
+    "index.html": "/ps-star-wars--react/index.html",
+    "main.f7a95976.css.map": "/ps-star-wars--react/static/css/main.f7a95976.css.map",
+    "main.d8d14ae3.js.map": "/ps-star-wars--react/static/js/main.d8d14ae3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7a95976.css",
+    "static/js/main.d8d14ae3.js"
+  ]
+}
